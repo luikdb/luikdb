@@ -20,6 +20,6 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luikdb&theme=monokai&show_icons=true&locale=en" alt="luikdb" />
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=luikdb&theme=monokai&show_icons=true&locale=en" alt="luikdb" />
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=luikdb&&theme=monokai" alt="luikdb" />
