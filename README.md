@@ -19,4 +19,4 @@
 <a href="https://twitter.com/luikdb" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="luikdb" height="30" width="40" /></a>
 </p>
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=luikdb&&theme=monokai" alt="luikdb" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luikdb&&theme=monokai" alt="luikdb" />
