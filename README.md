@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **AI/ML and Frontend Development**
 
-- 📫 Contact me: **luikdb@gmail.com**
+- 📫 Contact me:**luikdb@gmail.com**
 
 
 ## 💻 Tech Stack:
