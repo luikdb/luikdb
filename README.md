@@ -14,8 +14,9 @@
 <a href="https://linkedin.com/in/luikdb" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="luikdb" height="40" width="40" /></a>
 <a href="https://www.codechef.com/users/luikdb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="luikdb" height="40" width="40" /></a>
 <a href="https://www.leetcode.com/luikdb" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="luikdb" height="40" width="43" /></a>
-<a href="https://www.youtube.com/c/ucs28q6p7hvxq2an7xvyyxuw" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="ucs28q6p7hvxq2an7xvyyxuw" height="50" width="49" /></a>
 <a href="https://twitter.com/luikdb" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="luikdb" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucs28q6p7hvxq2an7xvyyxuw" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="ucs28q6p7hvxq2an7xvyyxuw" height="50" width="49" /></a>
+
 </p>
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luikdb&&theme=monokai" alt="luikdb" />
