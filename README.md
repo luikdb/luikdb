@@ -1,6 +1,6 @@
 <h1 >Hi, I'm Lui Kirtan DB 🙋‍♂️</h1>
 <h3 >A budding Biomedical Engineer🧬🦾 </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luikdb&label=Profile%20views&color=0e75b6&style=flat" alt="luikdb" /> </p>
+<p align="left"> <img src= "https://komarev.com/ghpvc/?username=luikdb&label=Profile%20views&color=0e75b6&style=flat" alt="luikdb" /> </p>
 
 - 🌱 I’m currently learning **AI/ML and Web Development.**
 
