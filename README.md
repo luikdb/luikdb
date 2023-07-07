@@ -2,7 +2,7 @@
 <h3 >A pre-final year Biomed Undergrad at NIT Rourkela</h3> 
 <p align="left"> <img src= "https://komarev.com/ghpvc/?username=luikdb&label=Profile%20views&color=0e75b6&style=flat" alt="luikdb" /> </p> 
 
-🌱 I’m currently learning: **AI/ML and Web Development.** 
+🌱 I’m currently learning **AI/ML and Web Development.** 
 
 📫 Contact me: **luikdb@gmail.com**
 
