@@ -7,7 +7,7 @@
 📫 Contact me: **luikdb@gmail.com**
 
 
-## #️⃣Socials:
+##  #️⃣Socials:
 <p align="left"> 
 <a href="https://linkedin.com/in/luikdb" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-s?logo=linkedin&labelColor=%230072b1&color=white&link=https%3A%2F%2Fwww.codechef.com%2Fusers%2Fluikdb">
 </a>
