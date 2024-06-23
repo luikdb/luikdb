@@ -1,5 +1,5 @@
  <h1 >Hi, I'm Lui Kirtan DB 🙋‍♂️</h1> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=luikdb&&theme=highcontrast" alt="luikdb" />
-<h3 >A pre-final year BME Undergrad at NIT Rourkela</h3> 
+<h3 >A final year BME Undergrad at NIT Rourkela</h3> 
 <p align="left"> <img src= "https://komarev.com/ghpvc/?username=luikdb&label=Profile%20views&color=0e75b6&style=flat" alt="luikdb" /> </p> 
 
 🌱 Interested in AI/ML 
