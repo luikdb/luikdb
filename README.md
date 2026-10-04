@@ -2,8 +2,7 @@
 <h3 >MS @NCKU | B.Tech @NIT Rourkela '25</h3> 
 <p align="left"> <img src= "https://komarev.com/ghpvc/?username=luikdb&label=Profile%20views&color=0e75b6&style=flat" alt="luikdb" /> </p> 
 
-🌱 AI/ML Enthusiast
-
+🌱 AI & Robotics 
 📫 Contact me: **luikdb@gmail.com**
 
 
