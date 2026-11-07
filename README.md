@@ -10,7 +10,6 @@
 </a>
 <a href="https://www.codechef.com/users/luikdb" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/Codechef-s?logo=codechef&logoColor=white&labelColor=65371b&color=white">
 </a>
-<a href="https://www.leetcode.com/luikdb" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/LeetCode-s?logo=leetcode&logoColor=f3991e&labelColor=black&color=white&link=https%3A%2F%2Fwww.codechef.com%2Fusers%2Fluikdb"></a>
 <a href="https://www.youtube.com/@luikdb" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/YouTube-s?logo=youtube&labelColor=red&color=white&link=https%3A%2F%2Fwww.codechef.com%2Fusers%2Fluikdb"></a>
   
 ## 💻Tech Stack:                                                       
